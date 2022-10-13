@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+@media only screen and (max-width: 370px) {
+    .navbar .navbar-brand {
+        font-size: 15px;
+    }
+}
+
+
+
